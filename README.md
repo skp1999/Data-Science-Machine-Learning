@@ -1,4 +1,4 @@
-This repository contains full codes of Data Science & Machine Lerning with Python.
+Data Science & Machine Learning models implementation with Python.
 
 1. Introduction to Data Science with Python - This course takes you into the world of Data Science tools and its implementation in Python.
 
